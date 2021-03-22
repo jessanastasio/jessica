@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jessica/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/jessica/static/js/main.6e3407ad.chunk.js",
+    "main.js.map": "/jessica/static/js/main.6e3407ad.chunk.js.map",
+    "runtime-main.js": "/jessica/static/js/runtime-main.0e42bc68.js",
+    "runtime-main.js.map": "/jessica/static/js/runtime-main.0e42bc68.js.map",
+    "static/js/2.79780d4b.chunk.js": "/jessica/static/js/2.79780d4b.chunk.js",
+    "static/js/2.79780d4b.chunk.js.map": "/jessica/static/js/2.79780d4b.chunk.js.map",
+    "static/js/3.df6634c3.chunk.js": "/jessica/static/js/3.df6634c3.chunk.js",
+    "static/js/3.df6634c3.chunk.js.map": "/jessica/static/js/3.df6634c3.chunk.js.map",
+    "index.html": "/jessica/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/jessica/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.79780d4b.chunk.js.LICENSE.txt": "/jessica/static/js/2.79780d4b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jessica/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e42bc68.js",
+    "static/js/2.79780d4b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6e3407ad.chunk.js"
+  ]
+}
